@@ -1,0 +1,19 @@
+{
+  "domain": "ollama",
+  "name": "Ollama (Bearer Token Shim)",
+  "version": "0.1.0",
+  "documentation": "https://example.com/ollama-bearer-hacs",
+  "issue_tracker": "https://example.com/ollama-bearer-hacs/issues",
+  "codeowners": [
+    "@you"
+  ],
+  "requirements": [
+    "ollama>=0.3.0"
+  ],
+  "config_flow": true,
+  "integration_type": "service",
+  "iot_class": "local_polling",
+  "loggers": [
+    "ollama"
+  ]
+}
