@@ -1,7 +1,7 @@
 {
   "domain": "ollama",
   "name": "Ollama (Bearer Token Shim)",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "documentation": "https://example.com/ollama-bearer-hacs",
   "issue_tracker": "https://example.com/ollama-bearer-hacs/issues",
   "codeowners": [
